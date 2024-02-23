@@ -1,5 +1,5 @@
 Magulong kapaligiran,
-SAyo lang ang tingin.
+Sayo lang ang tingin.
 
 <!---
 Nathan-crypto-bit/Nathan-crypto-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
